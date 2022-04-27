@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: Practice1
+Implementation-Version: practice
+Created-By: Maven Integration for Eclipse
+
